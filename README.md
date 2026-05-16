@@ -1,2 +1,3 @@
-# stats.atl.dev backend
-right now some things may be hard coded, please change them to not be hard coded if you know how
+# stats.grainware.org backend
+
+some things are hard coded ill fxit his at some point
