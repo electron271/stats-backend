@@ -4,3 +4,4 @@
 !.env
 !package.json
 !package-lock.json
+!prisma.config.ts
